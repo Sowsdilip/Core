@@ -1,1 +1,1 @@
-# Core
+# Java Data Base Connectivity
